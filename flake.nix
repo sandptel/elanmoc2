@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "A flake to provide support for 04f3:0c00 ";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-24.05";

@@ -2,7 +2,7 @@
   description = "A flake to provide support for 04f3:0c00 ";
 
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-24.05";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
   };
 
   outputs = { self,nixpkgs, ... }@inputs: 
